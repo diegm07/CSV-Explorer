@@ -8,12 +8,8 @@ This program is free software under the GNU GPLv3.
 You are free to run it, read it, change it, and share it.
 If you improve it, just keep it free for the next person.
 
-See the GNU General Public License for more details:
-<https://www.gnu.org/licenses/>.
-
 Feature Release V0.11.0:
-• Added drill-down capability in crosstab mode
-• Select cells in crosstab to filter by both dimensions
+• Added drill-down capability in crosstab mode: select cells in crosstab to filter by both dimensions
 • Improved crosstab navigation with indexed rows/columns
 • Better integration between crosstab and exploration modes
 """
